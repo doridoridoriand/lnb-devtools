@@ -18,3 +18,11 @@ $ cd lnb-devtools
 $ vagrant up
 $ vagrant ssh
 ```
+
+## Caution
+you have to put these command before using this
+
+```
+$ sudo apt-get install php5-mcrypt
+$ sudo php5enmod mcrypt
+```
