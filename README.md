@@ -19,6 +19,14 @@ $ vagrant up
 $ vagrant ssh
 ```
 
+## Settings
+### MySQL
+
+```
+user : root
+password : password
+```
+
 ## Caution
 you have to put these command before using this
 
