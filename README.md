@@ -1,7 +1,7 @@
 # LNB DevTools
 
 ## Overview
-This is Localnews development tool
+This is Localnews development tool for https://github.com/doridoridoriand/Local-News-Bot
 
 ## What do you get with this?
 
