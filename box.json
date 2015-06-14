@@ -3,13 +3,13 @@
   "short_description": "LNB on Ubuntu 14.04 Server (Trusty) 64-bit",
   "name": "lnb",
   "versions": [{
-    "version": "0.0.1",
+    "version": "0.0.2",
     "status": "active",
     "description_html": "<p>LNB Dev</p>",
     "description_markdown": "LNB Dev",
     "providers": [{
       "name": "virtualbox",
-      "url": "http://dev.doridorian.com/lnb.box"
+      "url": "http://dev.doridorian.com/lnb0.0.2.box"
     }]
   }]
 }
